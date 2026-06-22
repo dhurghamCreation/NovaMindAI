@@ -4,3 +4,4 @@ __pycache__/
 backend/search_history.json
 backend/users.json
 uploads/
+.vercel
